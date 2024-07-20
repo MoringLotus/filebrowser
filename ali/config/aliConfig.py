@@ -1,0 +1,12 @@
+HOST_NAME = "https://openapi.alipan.com"
+ADRIVE_USER_GETDRIVE_INFO = "/adrive/v1.0/user/getDriveInfo"
+ADRIVE_OPENFILE_LIST      = '/adrive/v1.0/openFile/list'
+ADRIVE_OPENFILE_GET       ="/adrive/v1.0/openFile/get"
+ADRIVE_OPENFILE_GET_BY_PATH = "/adrive/v1.0/openFile/get_by_path"
+ADRIVE_OPENFILE_SEARCH = "/adrive/v1.0/openFile/search"
+ADRIVE_OPENFILE_CREATE = "/adrive/v1.0/openFile/create"
+ADRIVE_OPENFILE_GET    = "/adrive/v1.0/openFile/get"
+ADRIVE_OPENFILE_GET_DOWNLOAD_URL = "/adrive/v1.0/openFile/getDownloadUrl"
+ADRIVE_OPENFILE_CREATE           = "/adrive/v1.0/openFile/create"
+ADRIVE_OPENFILE_GET_UPLOAD_URL   = "/adrive/v1.0/openFile/getUploadUrl"
+ADRIVE_OPENFILE_COMPLETE         = "/adrive/v1.0/openFile/complete"
